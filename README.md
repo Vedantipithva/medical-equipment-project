@@ -1,2 +1,15 @@
-# medical-equipment-project
-This project enhances the accessibility and usability of medical equipment by using AI to describe devices in natural language. The goal is to assist non-expert users, students, or patients in understanding how medical devices work — in their own language.
+# On-Device Medical Equipment Description using LLMs
+
+This project provides an interactive way to get multilingual descriptions and instructions for medical equipment using a small on-device AI and Streamlit interface.
+
+## Features
+- Select medical equipment and get its usage description
+- Supports English, Hindi, and Gujarati
+- Includes voice output using gTTS
+- Designed to run offline or on-device
+
+## Run Instructions
+1. Install requirements:
+   pip install -r requirements.txt
+2. Run the app:
+   streamlit run app.py

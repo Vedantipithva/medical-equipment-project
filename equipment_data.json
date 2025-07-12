@@ -1,0 +1,34 @@
+{
+  "Pulse Oximeter": {
+    "en": "A pulse oximeter is a device used to measure blood oxygen saturation and pulse rate.",
+    "hi": "पल्स ऑक्सीमीटर एक उपकरण है जो रक्त में ऑक्सीजन स्तर और नाड़ी दर मापता है।",
+    "gu": "પલ્સ ઓક્સીમીટર એ એક ઉપકરણ છે જે રક્તમાં ઑક્સિજન લેવલ અને નબીઝ દર માપે છે."
+  },
+  "Defibrillator": {
+    "en": "A defibrillator delivers electric shocks to restore a normal heart rhythm.",
+    "hi": "डिफिब्रिलेटर दिल की सामान्य धड़कन बहाल करने के लिए विद्युत झटके देता है।",
+    "gu": "ડિફિબ્રિલેટર સામાન્ય હ્રદય ધબકારા પુનઃસ્થાપિત કરવા માટે વિદ્યુત ઝટકા આપે છે."
+  },
+  "Syringe Pump": {
+    "en": "A syringe pump delivers fluids like medication at a controlled rate over time.",
+    "hi": "सिरिंज पंप दवाओं जैसे तरल पदार्थों को नियंत्रित दर से समय के साथ पहुंचाता है।",
+    "gu": "સિરિન્જ પંપ દવાઓ જેવા પ્રવાહીનો નિયંત્રિત દરે સમય સાથે વિતરણ કરે છે."
+  },
+
+  "Stethoscope": {
+  "en": "A stethoscope is used by doctors to listen to heartbeats, lung sounds, and other internal body sounds.",
+  "hi": "स्ट्रेथोस्कोप का उपयोग डॉक्टर हृदय, फेफड़ों और शरीर के आंतरिक ध्वनियों को सुनने के लिए करते हैं।",
+  "gu": "સ્ટેથોસ્કોપનો ઉપયોગ ડૉક્ટરો હૃદય, ફેફસાં અને અન્ય આંતરિક અવાજોને સાંભળવા માટે કરે છે."
+},
+"Thermometer": {
+"en": "A thermometer is a device used to measure body temperature accurately.",
+"hi": "थर्मामीटर एक उपकरण है जिसका उपयोग शरीर के तापमान को मापने के लिए किया जाता है।",
+"gu": "થર્મોમીટર એ એક સાધન છે જે શરીરનું તાપમાન ચોક્કસ રીતે માપે છે."
+},
+"Nebulizer": {
+"en": "A nebulizer converts liquid medication into a mist so it can be inhaled directly into the lungs.",
+"hi": "नेबुलाइज़र दवाओं को धुंध में बदल देता है ताकि उन्हें सीधे फेफड़ों में सांस के साथ लिया जा सके।",
+"gu": "નેબ્યુલાઇઝર દવાઓને ધૂંધમાં બદલે છે જેથી તેને સીધા ફેફસાંમાં શ્વાસ મારફતે લઈ શકાય."
+}
+
+}
